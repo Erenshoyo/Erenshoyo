@@ -3,7 +3,7 @@
 *Passionate Learner | Aspiring Software Developer*
 
 Hi, I'm Tauhid from Bangladesh 🇧🇩. I'm currently learning *Web Development (MERN Stack)* and *Python*.  
-I love building projects from scratch and exploring how code can solve real-life problems. Right now, I’m working on a *Spotify Clone* to sharpen my development skills.  
+I love building projects from scratch and exploring how code can solve real-life problems. Right now, I’m working on a *No Project (At this moment)* to sharpen my development skills.  
 
 I document my coding journey and growth as a developer — feel free to connect with me and follow along!
 
