@@ -43,7 +43,7 @@ I document my coding journey and growth as a developer — feel free to connect 
 
 ### 🚀 Currently
 - 🔭 Working on *Nothing*
-- 🌱 Learning *JavaScript & Python*
+- 🌱 Learning *React & Python*
 - 💬 Ask me about *my coding journey*
 - 📫 Reach me at *asifshahriartauhid@gmail.com*
 
