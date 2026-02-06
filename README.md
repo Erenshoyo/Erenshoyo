@@ -34,15 +34,9 @@ I document my coding journey and growth as a developer — feel free to connect 
 
 ---
 
-### 📊 GitHub Stats
-
-![Tauhid's GitHub stats](https://github-readme-stats.vercel.app/api?username=ErenShoyo&show_icons=true&theme=gruvbox)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErenShoyo&layout=compact&theme=gruvbox)
-
----
 
 ### 🚀 Currently
-- 🔭 Working on *Nothing*
+- 🔭 Working on *Book Vibe*
 - 🌱 Learning *React & Python*
 - 💬 Ask me about *my coding journey*
 - 📫 Reach me at *asifshahriartauhid@gmail.com*
