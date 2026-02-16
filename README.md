@@ -1,11 +1,12 @@
 # 👨‍💻 ErenShoyo (Tauhid)
 
-**Aspiring Full-Stack Developer | MERN Stack | Python**
+**Aspiring Full-Stack Developer | MERN → PERN | Problem Solver**
 
 Hi, I'm Tauhid from Bangladesh 🇧🇩  
-I’m a Computer Science student focused on building modern, scalable web applications using the MERN stack and Python.
+I’m a Computer Science student learning to build modern, scalable web applications.
 
-I enjoy turning ideas into real-world projects and continuously improving my problem-solving and software engineering skills. I document my learning journey and share progress along the way.
+Currently working with the **MERN stack**, and planning to transition toward the **PERN stack** in the future.  
+I enjoy building projects from scratch, understanding how systems work under the hood, and improving my problem-solving skills.
 
 ---
 
@@ -30,25 +31,46 @@ I enjoy turning ideas into real-world projects and continuously improving my pro
 
 ---
 
-### 🧰 Tech Stack
+### 🧰 Languages & Technologies
 
-**Languages**  
-C, C++, Java, JavaScript, Python
+#### Languages
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+</p>
 
-**Frontend**  
-HTML, CSS, React
+#### Frontend
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+</p>
 
-**Backend & Tools**  
-Node.js, Express.js, Git, GitHub
+#### Backend & Tools
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+</p>
+
+#### Planning to Learn
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40"/>
+</p>
 
 ---
 
 ### 🚀 Currently
 
 - 🔭 Building: **Book Vibe**
-- 🌱 Learning: **React & Python**
+- 🌱 Learning: **MERN Stack**
 - 🧠 Practicing: Data Structures & Algorithms
-- 💬 Ask me about: Web development & learning strategies
+- 🎯 Future Focus: **PERN Stack**
 - 📫 Email: **asifshahriartauhid@gmail.com**
 
 ---
@@ -56,9 +78,10 @@ Node.js, Express.js, Git, GitHub
 ### 🎯 Goals
 
 - Become a strong Full-Stack Developer  
-- Contribute to open-source projects  
-- Build impactful real-world applications  
+- Master backend fundamentals & databases  
+- Build real-world, scalable applications  
+- Contribute to open-source
 
 ---
 
-⭐ *“Consistency beats motivation.”*
+⭐ *Consistency beats motivation.*
