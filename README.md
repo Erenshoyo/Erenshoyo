@@ -67,7 +67,7 @@ I enjoy building projects from scratch, understanding how systems work under the
 
 ### 🚀 Currently
 
-- 🔭 Building: **Book Vibe**
+- 🔭 Building: **Phudu**
 - 🌱 Learning: **MERN Stack**
 - 🧠 Practicing: Data Structures & Algorithms
 - 🎯 Future Focus: **PERN Stack**
