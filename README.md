@@ -1,44 +1,64 @@
 # 👨‍💻 ErenShoyo (Tauhid)
 
-*Passionate Learner | Aspiring Software Developer*
+**Aspiring Full-Stack Developer | MERN Stack | Python**
 
-Hi, I'm Tauhid from Bangladesh 🇧🇩. I'm currently learning *Web Development (MERN Stack)* and *Python*.  
-I love building projects from scratch and exploring how code can solve real-life problems. Right now, I’m working on a *No Project (At this moment)* to sharpen my development skills.  
+Hi, I'm Tauhid from Bangladesh 🇧🇩  
+I’m a Computer Science student focused on building modern, scalable web applications using the MERN stack and Python.
 
-I document my coding journey and growth as a developer — feel free to connect with me and follow along!
+I enjoy turning ideas into real-world projects and continuously improving my problem-solving and software engineering skills. I document my learning journey and share progress along the way.
 
 ---
 
 ### 🔗 Connect with Me
 <p align="left">
-<a href="https://www.linkedin.com/in/asif-tauhid/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://www.facebook.com/asifshahriar.tauhid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
-<a href="https://www.instagram.com/_asif_s_tauhid_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/profile/asifshahriartau1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/asiftauhid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/asif-tauhid/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+</a>
+<a href="https://www.facebook.com/asifshahriar.tauhid" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
+</a>
+<a href="https://www.instagram.com/_asif_s_tauhid_/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+</a>
+<a href="https://www.hackerrank.com/profile/asifshahriartau1" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40" />
+</a>
+<a href="https://codeforces.com/profile/asiftauhid" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="30" width="40" />
+</a>
 </p>
 
 ---
 
-### 🧰 Languages and Tools
+### 🧰 Tech Stack
 
-<img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
-<br />
+**Languages**  
+C, C++, Java, JavaScript, Python
+
+**Frontend**  
+HTML, CSS, React
+
+**Backend & Tools**  
+Node.js, Express.js, Git, GitHub
 
 ---
-
 
 ### 🚀 Currently
-- 🔭 Working on *Book Vibe*
-- 🌱 Learning *React & Python*
-- 💬 Ask me about *my coding journey*
-- 📫 Reach me at *asifshahriartauhid@gmail.com*
+
+- 🔭 Building: **Book Vibe**
+- 🌱 Learning: **React & Python**
+- 🧠 Practicing: Data Structures & Algorithms
+- 💬 Ask me about: Web development & learning strategies
+- 📫 Email: **asifshahriartauhid@gmail.com**
 
 ---
+
+### 🎯 Goals
+
+- Become a strong Full-Stack Developer  
+- Contribute to open-source projects  
+- Build impactful real-world applications  
+
+---
+
+⭐ *“Consistency beats motivation.”*
