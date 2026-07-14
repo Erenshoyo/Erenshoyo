@@ -1,4 +1,4 @@
-# Tauhid &nbsp;·&nbsp; `@ErenShoyo`
+# Tauhid &nbsp;·&nbsp; `@asif-shahriar-tauhid`
 
 > CS student building toward full-stack. MERN now, PERN next.  
 > Interested in how systems actually work — not just how to use them.
